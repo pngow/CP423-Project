@@ -1,0 +1,11 @@
+Technology, https://www.wired.com/
+Health, https://medlineplus.gov/
+Health, https://www.who.int/
+Entertainment, https://www.vulture.com/
+Technology, https://techcrunch.com/
+Health, https://www.healthline.com/
+Entertainment, https://www.eonline.com/ca
+Technology, https://www.cnet.com/
+Health, https://www.mayoclinic.org/
+Entertainment, https://www.hollywoodreporter.com/
+Entertainment, https://screencrush.com/
