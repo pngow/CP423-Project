@@ -1,19 +1,18 @@
-import part1, part2, part3, part4, part5, part6
+import part1, part2, part3, part4, part5
 
 if __name__ == '__main__':
     option = None
     topics = None
 
     # while user hasn't exited
-    while option != '7':
+    while option != '6':
         print("""Select an option:
         1- Collect new documents.
         2- Index documents.
         3- Search for a query.
         4- Train ML classifier.
         5- Predict a link.
-        6- Your story!
-        7- Exit
+        6- Exit
     """)
         # get user input
         option = input()
@@ -25,7 +24,7 @@ if __name__ == '__main__':
         elif option == '2':
             # need to run option 1 before selecting option 2 ... need mapping.txt and documents from crawl
             if topics is None:
-                print('Please select option 1 first. No documents recently crawled. Index should be up to date.')
+                print('Please select option 1 first. No documents recently crawled.')
             else:
                 part2.inverted_index(topics)
         elif option == '3':
@@ -35,8 +34,6 @@ if __name__ == '__main__':
         elif option == '5':
             part5.run()
         elif option == '6':
-            part6.print_story()
-        elif option == '7':
             print("Exiting program.")
         else:
             print("Invalid option. Please enter the numeric value corresponding \

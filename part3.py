@@ -9,7 +9,7 @@ import ast
 
 def load_inverted_index(file_path: str) -> Dict[str, Tuple[str, List[Tuple[str, int]]]]:
     inverted_index = {}
-    with open(file_path,  'r', encoding = 'utf-8') as f:
+    with open(file_path, 'r') as f:
 
         for line in f.readlines():
             #skip processing header lines
