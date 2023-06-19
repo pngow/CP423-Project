@@ -1,0 +1,17 @@
+MedlinePlus Connect
+MedlinePlus Connect free service National Library Medicine (NLM), National Institutes Health (NIH), Department Health Human Services (HHS). service allows health organizations health providers link patient portals electronic health record (EHR) systems MedlinePlus, authoritative up-to-date health information resource patients, families, health care providers.
+Works
+MedlinePlus Connect accepts responds requests information based diagnosis (problem) codes, medication codes, laboratory test codes, medical procedure codes. EHR, patient portal system submits code-based request, MedlinePlus Connect returns response includes links patient education information relevant code. MedlinePlus Connect available Web application Web service. available English Spanish.
+problem code requests English, M+ Connect also returns information pages genetic conditions. MedlinePlus 1,300 summaries educate patients features, genetic causes, inheritance genetic conditions. (Prior 2020 content labelled “Genetics Home Reference”; content part MedlinePlus.)
+MedlinePlus Connect also link EHR system drug information written especially patients. EHR system sends MedlinePlus Connect request includes medication code, service return link(s) appropriate drug information. MedlinePlus drug information AHFS Consumer Medication Information licensed use MedlinePlus American Society Health-System Pharmacists, ASHP, Inc.
+MedlinePlus Connect supports requests information English Spanish. MedlinePlus Connect intended use within United States health care system cannot support coding systems used United States.
+Implementing MedlinePlus Connect
+use MedlinePlus Connect, work technical representative staff member set MedlinePlus Connect Web application Web service described technical documentation. use coding information already system (e.g., ICD-9-CM, NDC, etc.) automatically send requests MedlinePlus Connect standard format use reply provide relevant patient education MedlinePlus.
+level effort implementation varies depending flexibility customizability system.
+Implementing MedlinePlus Connect one-time effort. make change system, MedlinePlus Connect update maintain links codes consumer health information.
+Quick Facts
+MedlinePlus Connect may help achieve one criteria Meaningful Use Health Information Technology.
+Implementing MedlinePlus Connect make global change; need create individual links.
+use MedlinePlus Connect exclusively link patient education information. Many EHR systems configured link one source consumer health information.
+MedlinePlus Connect replacement MedlinePlus. value-added service bring MedlinePlus content electronic health record systems.
+MedlinePlus Connect provides links copyrighted drug information American Society Health-System Pharmacists, ASHP, Inc. Users MedlinePlus Connect prohibited ingesting and/or branding copyrighted content EHR health system. want incorporate content EHR brand it, must license content directly information vendor. See page linking MedlinePlus details.
