@@ -1,0 +1,34 @@
+Everything Need Know Ethernet
+Wi-Fi became ubiquitous, Ethernet way link devices together. running Ethernet cables local area network (LAN) wide area network (WAN), could send traffic back forth. Ethernet enables machines recognize data meant send data devices. still widely used sending data along cables faster, reliable, secure sending radio waves, Wi-Fi does.
+buy something using links stories, may earn commission. helps support journalism. Learn more.
+History Ethernet
+First created 1973 group Xerox Palo Alto Research Center (PARC) engineers, including Robert Metcalfe David Boggs, Ethernet allowed people connect multiple computers local area network (LAN). Ethernet provided set rules sending data back forth specific machines rapidly. name Ethernet inspired luminiferous ether.
+massively simplify early history Ethernet, Xerox relinquished trademark Ethernet name, Institute Electrical Electronics Engineers (IEEE) formalized 802.3 standard (otherwise known Ethernet) 1983. technologies existed, Ethernet soon became dominant standard open, networking equipment available multiple manufacturers. Ethernet also easy upgrade, version offering backward compatibility.
+first official Ethernet release supported speeds 10 Mbps. 100 Mbps Fast Ethernet came along 1995, Gigabit Ethernet followed 1999. 2002, 10-Gigabit Ethernet possible. Power Ethernet, PoE, enabled devices use single cable power networking, landed 2003. Work continued increase Ethernet capabilities since, reaching 40 Gbps 2010, 100 Gbps later year. Research continues, 40 Gbps top speed available use home today, that’s way us need.
+Ethernet Wi-Fi
+Even ever used Wi-Fi, probably familiar Ethernet plugs cables. cable connects modem Wi-Fi router main mesh unit likely Ethernet cable RJ45 connector. Ethernet offers three main advantages Wi-Fi: faster, stable, secure. requires run cables devices, connected devices must Ethernet ports. Wiring network also complex costly.
+Ultimately, speed get always limited lowest-rated component, whether that’s cable, port, switch. Let’s take closer look three.
+Ethernet Cables
+Photograph: Amazon
+seven categories Ethernet cable use today, offering various maximum bandwidth data rates.
+basic level, cables pairs wires twisted together plastic covering (UTP, Unshielded Twisted Pair), cables metallic foil shielding (STP FTP, stand Shielded Twisted Pair Foiled Twisted Pair). addition shielding guards electromagnetic interference, also makes cables thicker less flexible. Whenever buy Ethernet cable, manufacturer specify capabilities, cables usually basic specs printed plastic casing.
+generally quite hardy, always risk Ethernet cables damaged, especially plug unplug often. run cables around house, careful tight bends avoid high-traffic areas might get bumped trampled. Thin flat Ethernet cables may tempting, often less shielding less durable.
+Ethernet cable damaged, necessarily stop working entirely. may identified connected devices lower category cable, limit speed. surprised happened me. Cat 7 cable rated 10 Gbps working fine months, got damaged without noticing, router testing limited 1 Gbps connection 100 Mbps. also limit long Ethernet cable signal strength drops, that’s usually something need worry wiring home.
+hassle running cables, especially hide walls, ceilings, floors, best future-proof get Cat 7 Cat 8 cable. price difference minor anyway, backward compatible. use 10-foot Amazon Basics Cat 7 Ethernet Cable ($11), works perfectly Gigabit internet connection. flat cables tried developed faults.
+Ethernet Ports
+Photograph: Amazon
+Many routers mesh systems today limited number Ethernet ports. Like cables, different ratings usually straightforward. Gigabit ports common: Several routers offer 2.5 Gbps ports, handful routers support 10 Gbps. maximum data rate tends printed port routers. may check specs devices.
+Ethernet Switches
+Whether need ports want route Ethernet cables around home, may need Ethernet switch. Ethernet switches come various sizes enable run single Ethernet cable router multiple cables different rooms devices. currently using Netgear Five Port Gigabit Network Switch ($33), get switches ports, like unmanaged eight-port model TP-Link ($25) WIRED reviews editor Julian Chokkattu uses.
+Switches usually described managed unmanaged. Opt managed like tinker want configure monitor settings, prioritize channels traffic, potentially get security features. Unmanaged switches plug-and-play, usually cheaper work fine homes.
+Using Ethernet Home
+Running Ethernet cables around home offer speed, stability, security advantages mentioned, tough depends construction house willingness drill holes. Wi-Fi much easier, speeds get Wi-Fi always far lower actual speed internet service provider supports. using Ethernet cables, get much closer maximum speeds.
+Cables every room would disruptive folks, anyone mesh system supports wired backhaul consider running Ethernet cable main router nodes satellites get best performance system. Otherwise, mesh use one wireless bands send traffic back forth, limits bandwidth available devices results slower Wi-Fi speeds devices connected node.
+Even use wireless backhaul, spare Ethernet port node, often worth running Ethernet cable device room. Smart TVs, game consoles, computers usually Ethernet ports, running cable always offers better speed stability Wi-Fi.
+rent simply don’t want start drilling holes run cables, couple alternatives. first use long Ethernet cable adhesive cable clips route wire space without drill anything; WIRED reviews editor Julian Chokkattu rental. options:
+Powerline adapters: Plug power outlet pass internet signal electrical wiring. connect Ethernet cable router one end another Ethernet cable device switch other. work well problem spots, much depends wiring.
+MoCA (Multimedia Coax Alliance): coaxial cables—commonly used send video signals TVs—installed home, use pass internet signal. Ethernet first developed ran coaxial cables. like Powerline adapters, need adapter either end switch Ethernet coaxial back.
+Wi-Fi?
+Wi-Fi still likely best solution folks easy connect devices. Wi-Fi 6, Wi-Fi 6E, fast-approaching Wi-Fi 7 made high-speed connections possible, offering enough bandwidth typical tasks like streaming video online gaming. Wi-Fi works you, stick it, prone interference instability, run issues, might consider Ethernet. all, sometimes wired better.
+Simon Hill writing tech decade. regular contributor WIRED, also find work Business Insider, Reviewed, TechRadar, Android Authority, USA Today, Digital Trends, many places. writing, worked games development. lives... Read
+WIRED tomorrow realized. essential source information ideas make sense world constant transformation. WIRED conversation illuminates technology changing every aspect lives—from culture business, science design. breakthroughs innovations uncover lead new ways thinking, new connections, new industries.
