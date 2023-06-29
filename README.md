@@ -1,4 +1,4 @@
-# CP423-Project
+# CP423 Topical Search Engine Project
 
 The objective of this project was to create a topical search engine which would allow users to do the following:
   1. Collect new documents related to the topics focused on by the search engine by crawling a list of source URLs for each topic to find more links (100 per topic)
