@@ -36,5 +36,5 @@ if __name__ == '__main__':
         elif option == '6':
             print("Exiting program.")
         else:
-            print("Invalid option. Please enter the numeric value corresponding \
-                to one of the above options.")
+            print("Invalid option. Please enter the numeric value corresponding " \
+                "to one of the above options.")
